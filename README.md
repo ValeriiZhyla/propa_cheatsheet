@@ -1,6 +1,6 @@
 # propa_cheatsheet
-Universität: KIT
-Semester: WS20/21
+Universität: KIT \n
+Semester: WS20/21 \n
 Vorlesung: ProgrammierParadigmen 
 Dozenten: Prof. Snelting, Prof. Reussner 
  
